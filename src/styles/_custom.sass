@@ -100,3 +100,41 @@ figcaption, table caption
 .imgw-72
   width: 72px
   margin-left: auto
+
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.85rem ))
+    background-color: $color-acento-botones
+    p, h4, h5
+      color: $white
+
+    &--custom
+      @media (min-width: $bp-min-md) and (max-width: $bp-max-md)
+        padding-top: 0.5rem
+    &--custom-1
+      @media (min-width: $bp-min-xl)
+        padding-top: 0.5rem
+
+    &:hover
+      background-color: $color-acento-botones-a5
+      p, h4, h5
+        color: $color-sistema-texto
+
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
