@@ -85,7 +85,7 @@
           img(data-aos="fade-down", src="@/assets/curso/tema1/4.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/5.png", alt="")
       .col-lg-11

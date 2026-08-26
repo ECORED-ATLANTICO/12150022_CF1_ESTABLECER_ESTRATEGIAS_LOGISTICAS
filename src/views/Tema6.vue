@@ -79,7 +79,7 @@
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/8.png", alt="")
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema6/9.png", alt="")
       .col-lg-11

@@ -49,7 +49,7 @@
               p.mb-0 Incluye los costos generados por devoluciones, recolecciones, garantías, recuperación de productos, reutilización, reciclaje o disposición final.
 
     .row.justify-content-center.align-items-center.z-2
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/3.png", alt="")
       .col-lg-11

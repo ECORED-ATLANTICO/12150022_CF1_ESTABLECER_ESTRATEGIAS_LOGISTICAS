@@ -25,7 +25,7 @@
       .col-lg-8
         p Los eslabones de cadena logística son las actividades y procesos interrelacionados que intervienen en abastecimiento, almacenamiento, transporte, distribución y comercialización de productos o servicios. Cada eslabón cumple una función específica orientada al cumplimiento de los objetivos organizacionales y satisfacción del cliente.
         .row.justify-content-center.align-items-center.z-2
-          .col-3.col-sm-2
+          .col-3.col-sm-2.d-none.d-lg-block
             figure
               img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/3.png", alt="")
           .col-lg-10
@@ -85,7 +85,7 @@
     p.mb-4 Los eslabones de cadena logística se aplican en organizaciones industriales, comerciales y de servicios para coordinar procesos relacionados con compras, almacenamiento, transporte y distribución. Su adecuada integración facilita el control operativo, mejora la productividad y fortalece la satisfacción del cliente.
 
     .row.justify-content-center.align-items-center.z-2.mb-4
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/4.png", alt="")
       .col-lg-11

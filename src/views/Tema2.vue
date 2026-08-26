@@ -25,7 +25,7 @@
           p.mb-0 Estas unidades facilitan la administración de procesos relacionados con abastecimiento, almacenamiento, transporte, distribución y servicio al cliente, permitiendo evaluar el desempeño de cada área de manera individual. Asimismo, contribuyen a mejorar la planeación estratégica y la asignación eficiente de recursos dentro de la empresa.
 
     .row.justify-content-center.align-items-center.z-2
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/3.png", alt="")
       .col-lg-11

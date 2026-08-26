@@ -98,7 +98,7 @@
               p.mb-0 Gestionar devoluciones de manera ágil y efectiva, ofreciendo soluciones que generan confianza y mejoran el servicio.
 
     .row.justify-content-center.align-items-center.z-2.mb-4
-      .col-3.col-sm-2.col-lg-1
+      .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/3.png", alt="")
       .col-lg-11
