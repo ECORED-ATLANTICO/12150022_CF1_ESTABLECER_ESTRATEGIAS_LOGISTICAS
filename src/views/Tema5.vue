@@ -119,6 +119,7 @@
               p Lo invitamos al siguiente pódcast:
               TarjetaAudio.mb-3(
                 texto="“La idea de negocio como base del desarrollo empresarial”"
+                tiempo
                 :audio="require_src('@/assets/actividad/audio/fail.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 

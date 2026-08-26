@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 9
-      h1 EVA
+      h1 Diseño y mejora de procesos logísticos 
     img(src="@/assets/curso/tema9/1.png", data-aos="fade-up", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-3.p-lg-4.drop-shadow(data-aos="fade-down")
@@ -16,7 +16,7 @@
     #t_9_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 9.1 Definición
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema9/2.png", alt="" data-aos="zoom-in-down")
@@ -24,6 +24,20 @@
         p El diseño de procesos logísticos corresponde a la planificación y estructuración de actividades orientadas al flujo eficiente de bienes, servicios e información dentro de la organización. Este proceso incluye la definición de procedimientos, recursos, tecnologías y responsabilidades necesarias para el cumplimiento de los objetivos empresariales.
         .p-4.bg-botones-a5.py-3.rounded-4
           p.mb-0 La mejora de procesos logísticos consiste en la implementación de acciones orientadas a corregir fallas, optimizar recursos y aumentar la eficiencia operativa de la cadena logística. Por ejemplo, Amazon diseña y mejora constantemente sus procesos logísticos mediante automatización, control de inventarios y optimización de centros de distribución para agilizar las entregas.
+
+    separador
+    #t_9_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 9.2 Análisis
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-lg-8
+        p El análisis de procesos logísticos permite evaluar el desempeño operativo de las actividades relacionadas con transporte, almacenamiento, abastecimiento y distribución. Este análisis facilita la identificación de oportunidades de mejora orientadas a reducir tiempos, costos y errores operativos. Asimismo, el análisis de procesos permite establecer indicadores de desempeño para medir productividad, cumplimiento de entregas y nivel de servicio al cliente.
+        .p-4.bg-secundario-s5.py-3.rounded-4.mb-4.mb-lg-0
+          p.mb-0 El análisis de procesos logísticos requiere una serie de pasos orientados a evaluar el desempeño operativo y establecer acciones de mejora dentro de la cadena logística:
+      .col-sm-8.col-lg-4
+        figure
+          img(data-aos="fade-down-right", src="@/assets/curso/tema9/4.png", alt="")
+    
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10

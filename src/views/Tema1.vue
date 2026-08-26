@@ -65,7 +65,7 @@
     p El procedimiento para el análisis de resultados diagnósticos se aplica en empresas industriales, comerciales y de servicios para mejorar la productividad y optimizar recursos logísticos. Su implementación facilita la toma de decisiones relacionadas con inventarios, transporte, almacenamiento y servicio al cliente.
     p.mb-4.mb-lg-5 Dentro del contexto de las estrategias hay cuatro aplicaciones.
 
-    .row.justify-content-center.align-items-center.z-2
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-xl-8.mb-4.mb-lg-0
         TabsA.color-acento-botones
           .tarjeta.p-4.bg-secundario-s5(titulo="Identificación de brechas")
