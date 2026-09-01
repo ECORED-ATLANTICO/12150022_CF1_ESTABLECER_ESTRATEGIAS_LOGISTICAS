@@ -28,7 +28,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema10/3.png", alt="")
       .col-lg-10
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 Por ejemplo, Amazon utiliza sistemas tecnológicos y automatización en sus centros de distribución para optimizar inventarios, clasificar productos y agilizar entregas. 
 
     separador
@@ -125,14 +125,14 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema10/11.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        .tarjeta.bg-botones-a5.p-3.mb-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3.mb-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2
+            .col-sm-3.col-lg-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Herramientas y Métricas de Medición Logística
+                  h4.mb-1 Herramientas y métricas de medición logística
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con las tecnologías de apoyo aplicadas en la cadena de abastecimiento y su uso en los procesos logísticos empresariales:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=_2FL76RGoOE" target="_blank")

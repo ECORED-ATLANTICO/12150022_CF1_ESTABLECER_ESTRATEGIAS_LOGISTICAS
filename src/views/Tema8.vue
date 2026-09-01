@@ -26,7 +26,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Es un es un indicador de medición financiera que permite determinar si las decisiones y operaciones de una organización generan valor económico después de considerar los costos y los recursos utilizados. En logística, facilita evaluar si las estrategias implementadas en procesos como abastecimiento, almacenamiento, transporte y distribución contribuyen a mejorar los resultados mediante un uso eficiente de los recursos, manteniendo condiciones adecuadas de operación y servicio al cliente. 
 
-    .row.justify-content-center.align-items-center.z-2.bg-secundario-s5.p-4.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center.z-2.bg-secundario-s5.p-4.mb-4.mb-lg-5.rounded-3
       .col-3.col-sm-2.col-xl-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema8/3.png", alt="")
@@ -38,8 +38,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Formula del valor económico agregado (EVA)
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema8/4-mob.png", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema8/4.png", alt="")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema8/4-mob.png", alt="La figura representa el cálculo del valor económico agregado (EVA), relacionando la utilidad operativa obtenida después de impuestos con el capital comprometido y su costo financiero. La fórmula permite determinar si los resultados generados por una operación superan el rendimiento mínimo esperado sobre los recursos utilizados. En el ámbito logístico, facilita evaluar si las decisiones sobre infraestructura, inventarios, tecnología, equipos y demás recursos contribuyen a crear valor económico para la organización. ")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema8/4.png", alt="La figura representa el cálculo del valor económico agregado (EVA), relacionando la utilidad operativa obtenida después de impuestos con el capital comprometido y su costo financiero. La fórmula permite determinar si los resultados generados por una operación superan el rendimiento mínimo esperado sobre los recursos utilizados. En el ámbito logístico, facilita evaluar si las decisiones sobre infraestructura, inventarios, tecnología, equipos y demás recursos contribuyen a crear valor económico para la organización. ")
         figcaption Nota. SENA, (2026).
 
     separador
@@ -57,8 +57,8 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-lg-8.mb-4.mb-lg-0
-        .p-5.bg-slider.rounded-4
-          SlyderA(tipo="b").p-5.tarjeta.tarjeta--blanca
+        .p-4.bg-slider.rounded-4
+          SlyderA(tipo="b").p-3.p-lg-4.tarjeta.tarjeta--blanca
             div
               h4.mb-4 Evaluación de inversiones logísticas
               p.mb-0 Permite determinar si los beneficios económicos esperados de inversiones en infraestructura, vehículos, equipos o tecnología compensan el capital utilizado y contribuyen efectivamente a la creación de valor.
@@ -86,19 +86,19 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema8/7.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 Por ejemplo, DHL analiza indicadores de rentabilidad y eficiencia operativa para optimizar sus procesos logísticos y mejorar el desempeño empresarial.
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
-        .tarjeta.bg-botones-a5.p-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-xl-2
+            .col-sm-2.col-xl-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 EVA Valor Económico Agregado
+                  h4.mb-1 EVA valor económico agregado
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el EVA (Valor Económico Agregado) y su aplicación en la evaluación financiera y estratégica de las organizaciones: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=ug33PRS7ODk" target="_blank")

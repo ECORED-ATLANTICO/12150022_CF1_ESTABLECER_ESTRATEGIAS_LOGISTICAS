@@ -23,7 +23,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/2.png", alt="")
       .col-lg-7
         p El procedimiento para el análisis de resultados sobre los diagnósticos corresponde al conjunto de actividades utilizadas para interpretar información relacionada con los procesos logísticos de una empresa. Su finalidad consiste en identificar fortalezas, debilidades y oportunidades de mejora en la cadena de abastecimiento.
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 #[strong Ejemplo]: Amazon analiza constantemente los tiempos de entrega y niveles de inventario para optimizar sus centros de distribución y mejorar el servicio al cliente. De igual forma, Servientrega realiza diagnósticos logísticos para evaluar rutas, tiempos de despacho y cumplimiento de entregas a nivel nacional.
 
     separador
@@ -31,7 +31,7 @@
       h2 1.2 Tipos
 
     p Los tipos de análisis permiten evaluar diferentes aspectos de los procesos logísticos para facilitar la toma de decisiones dentro de las organizaciones. Su aplicación contribuye a mejorar la eficiencia operativa, optimizar recursos y fortalecer el desempeño de la cadena de abastecimiento.
-    .p-4.py-3.bg-secundario-s5.mb-4
+    .p-4.py-3.bg-secundario-s5.mb-4.rounded-3
       p.mb-0.text-center A continuación, se presentan los principales tipos de análisis utilizados en los diagnósticos logísticos para evaluar el desempeño de los procesos y apoyar la toma de decisiones organizacionales
 
     .row.justify-content-center.align-items-center.z-2
@@ -89,7 +89,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/5.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-contenido-a5
+        .p-4.py-3.bg-contenido-a5.rounded-3
           p.mb-0 #[strong Ejemplo]: FedEx utiliza diagnósticos logísticos para controlar tiempos de entrega y optimizar rutas de distribución, mientras que Alkosto analiza la demanda y rotación de productos para fortalecer el abastecimiento de sus almacenes. 
 
 

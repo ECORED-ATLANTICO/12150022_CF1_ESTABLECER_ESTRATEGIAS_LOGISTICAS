@@ -50,14 +50,14 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
-        .tarjeta.bg-botones-a5.p-3.mb-5
+        .tarjeta.bg-botones-a5.p-4.p-lg-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2
+            .col-sm-3.col-lg-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Diseño de una Red Logística
+                  h4.mb-1 Diseño de una red logística
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el diseño de procesos logísticos y su aplicación en la optimización de operaciones dentro de la cadena de abastecimiento: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=nJYhtOGsOjs" target="_blank")

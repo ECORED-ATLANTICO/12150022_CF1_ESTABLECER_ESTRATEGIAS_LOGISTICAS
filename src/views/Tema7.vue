@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Tema 7
+      h1 Estrategias para crear valor económico agregado
 
     img(data-aos="fade-up")(src="@/assets/curso/tema7/1.png", alt="")
     .row.justify-content-center.z-2
@@ -29,14 +29,13 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/3.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 Por ejemplo, Amazon implementa estrategias tecnológicas y logísticas para optimizar tiempos de entrega, reducir costos operativos y fortalecer la satisfacción del cliente.
-
 
     separador
     
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 7.2 Aplicabilidad
+      h2 7.2 Tipos
 
     p.mb-4 Las organizaciones pueden implementar diferentes estrategias para generar valor económico agregado de acuerdo con sus objetivos y necesidades operativas. 
 
@@ -90,7 +89,7 @@
             figure
               img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/3.png", alt="")
           .col-lg-10
-            .p-4.py-3.bg-secundario-s5
+            .p-4.py-3.bg-secundario-s5.rounded-3
               p.mb-0 Por ejemplo, Grupo Nutresa desarrolla estrategias de eficiencia logística y sostenibilidad para fortalecer su productividad y generar mayor valor empresarial.
 
 </template>

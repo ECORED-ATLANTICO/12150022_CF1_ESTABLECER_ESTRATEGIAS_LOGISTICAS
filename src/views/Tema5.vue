@@ -29,7 +29,7 @@
             figure
               img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/3.png", alt="")
           .col-lg-10
-            .p-4.py-3.bg-secundario-s5
+            .p-4.py-3.bg-secundario-s5.rounded-3
               p.mb-0 Por ejemplo, Amazon integra proveedores, centros de distribución, transporte y plataformas tecnológicas para garantizar entregas rápidas y eficientes.
 
     separador
@@ -37,7 +37,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.2 Tipos
 
-    .p-4.py-3.bg-secundario-s5.mb-5
+    .p-4.py-3.bg-secundario-s5.mb-5.rounded-3
       p.mb-0 Los eslabones de la cadena logística pueden clasificarse según las funciones desarrolladas dentro de los procesos operativos y comerciales de la organización.
 
     .titulo-sexto.color-acento-contenido
@@ -89,7 +89,7 @@
         figure
           img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/4.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 Por ejemplo, FedEx coordina diferentes eslabones logísticos mediante tecnologías de rastreo y control operativo para optimizar tiempos de entrega y cobertura del servicio.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
@@ -97,9 +97,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/5.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        .tarjeta.bg-botones-a5.p-3.mb-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3.mb-4
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2
+            .col-sm-3.col-lg-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center

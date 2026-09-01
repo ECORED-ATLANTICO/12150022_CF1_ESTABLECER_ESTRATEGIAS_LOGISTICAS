@@ -16,7 +16,7 @@
 
     separador
     #t_12_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 12.1 Definición
+      h2 12.1 Concepto
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -74,14 +74,14 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
-        .tarjeta.bg-botones-a5.p-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-xl-2
+            .col-sm-2.col-xl-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Métodos de Fijación de Precios
+                  h4.mb-1 Métodos de fijación de precios
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con los métodos de fijación de precios y su aplicación en los procesos comerciales y logísticos de las organizaciones: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=LdRdiKrwI38" target="_blank")
@@ -118,14 +118,14 @@
         .bg-secundario-s10.p-4.rounded-4.py-3.mb-3
           p.mb-0 Por ejemplo, Éxito utiliza procesos de abastecimiento y control de inventarios para garantizar disponibilidad de productos y mejorar la atención al consumidor en sus puntos de venta.
 
-        .tarjeta.bg-botones-a5.p-3.mb-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2
+            .col-sm-3.col-lg-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 #[em Efficient Consumer Response] (ECR)
+                  h4.mb-1 #[em Efficient consumer response] (ECR)
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con las técnicas de respuesta eficiente del consumidor y su aplicación en los procesos de abastecimiento, distribución y servicio al cliente: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Kl2Siw81MH0" target="_blank")

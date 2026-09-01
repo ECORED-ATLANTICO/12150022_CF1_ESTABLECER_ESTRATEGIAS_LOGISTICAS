@@ -83,14 +83,14 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema6/9.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-secundario-s5
+        .p-4.py-3.bg-secundario-s5.rounded-3
           p.mb-0 Por ejemplo, DHL utiliza tecnologías y procesos de automatización para optimizar operaciones logísticas, reducir costos y aumentar el valor ofrecido a sus clientes a nivel internacional.
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
-        .tarjeta.bg-botones-a5.p-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2
+            .col-sm-3.col-lg-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center

@@ -51,28 +51,31 @@
       .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-acento-botones")
           div(titulo="Distribución masiva")
-            p.mb-4 Facilita consolidar y redistribuir grandes volúmenes de mercancía hacia diferentes destinos, disminuyendo almacenamiento intermedio y agilizando el abastecimiento de múltiples puntos de entrega.
-            p.mb-4 #[strong Ejemplo práctico:]
-            p.mb-0 Un fabricante envía bebidas a una plataforma donde se clasifican por rutas y se despachan directamente hacia supermercados y tiendas.
+            .ms-lg-5
+              p.ms-lg-2.mb-4 Facilita consolidar y redistribuir grandes volúmenes de mercancía hacia diferentes destinos, disminuyendo almacenamiento intermedio y agilizando el abastecimiento de múltiples puntos de entrega.
+              p.ms-lg-2.mb-4 #[strong Ejemplo práctico:]
+              p.ms-lg-2.mb-0 Un fabricante envía bebidas a una plataforma donde se clasifican por rutas y se despachan directamente hacia supermercados y tiendas.
           div(titulo="Comercio electrónico")
-            p.mb-4 Permite movilizar productos recibidos desde proveedores hacia procesos de clasificación y despacho, reduciendo tiempos de permanencia y favoreciendo entregas más rápidas al consumidor. 
-            p.mb-4 #[strong Ejemplo práctico:]
-            p.mb-0 Productos previamente vendidos llegan al centro logístico, se separan según destino y pasan directamente a las rutas de última milla. 
+            .ms-lg-5
+              p.ms-lg-2.mb-4 Permite movilizar productos recibidos desde proveedores hacia procesos de clasificación y despacho, reduciendo tiempos de permanencia y favoreciendo entregas más rápidas al consumidor. 
+              p.ms-lg-2.mb-4 #[strong Ejemplo práctico:]
+              p.ms-lg-2.mb-0 Productos previamente vendidos llegan al centro logístico, se separan según destino y pasan directamente a las rutas de última milla. 
           div(titulo="Cadenas de abastecimiento de alta rotación")
-            p.mb-4 Favorece el flujo continuo de productos con elevada demanda o corta permanencia, reduciendo inventarios almacenados y acelerando su disponibilidad en los puntos de venta. 
-            p.mb-4 #[strong Ejemplo práctico:]
-            p.mb-0 Una cadena de supermercados recibe productos frescos, los clasifican por establecimiento y los despacha el mismo día hacia sus diferentes tiendas. 
+            .ms-lg-5
+              p.ms-lg-2.mb-4 Favorece el flujo continuo de productos con elevada demanda o corta permanencia, reduciendo inventarios almacenados y acelerando su disponibilidad en los puntos de venta. 
+              p.ms-lg-2.mb-4 #[strong Ejemplo práctico:]
+              p.ms-lg-2.mb-0 Una cadena de supermercados recibe productos frescos, los clasifican por establecimiento y los despacha el mismo día hacia sus diferentes tiendas. 
       
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
-        .tarjeta.bg-botones-a5.p-3
+        .tarjeta.bg-botones-a5.p-4.p-lg-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-xl-2
+            .col-3.col-sm-2.col-xl-2.d-none.d-lg-block
               img.imgw-72(src="@/assets/curso/tema3/8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Diseño de una Red Logística
+                  h4.mb-1 Diseño de una red logística
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el diseño de operaciones en cross docking y su aplicación en los procesos de distribución y optimización logística:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=OPSNmuNgQaE" target="_blank")

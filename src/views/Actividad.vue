@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Diagnóstico y documentación de procesos logísticos.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la comprensión de conceptos y aplicabilidad del diagnóstico y documentación de procesos logísticos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -58,7 +58,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis de resultados permite identificar fortalezas, debilidades y oportunidades de mejora para orientar las decisiones logísticas.',
+            'El análisis de resultados permite identificar fortalezas, debilidades y oportunidades de mejora para orientar las decisiones logísticas.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el análisis de resultados de los diagnósticos logísticos.',
         },
@@ -94,7 +94,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Una unidad estratégica de negocio permite gestionar productos, servicios o mercados específicos con objetivos y estrategias propias.',
+            'Una unidad estratégica de negocio permite gestionar productos, servicios o mercados específicos con objetivos y estrategias propias.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la definición y clasificación de las unidades estratégicas de negocio.',
         },
@@ -129,7 +129,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los costos logísticos corresponden a los gastos generados en actividades de transporte, almacenamiento, inventarios y distribución.',
+            'Los costos logísticos corresponden a los gastos generados en actividades de transporte, almacenamiento, inventarios y distribución.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la conceptualización y análisis de los costos logísticos.',
         },
@@ -164,7 +164,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La evaluación de la relación beneficio-costo permite comparar los recursos invertidos con los beneficios obtenidos para apoyar la toma de decisiones.',
+            'La evaluación de la relación beneficio-costo permite comparar los recursos invertidos con los beneficios obtenidos para apoyar la toma de decisiones.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la evaluación de la relación beneficio-costo.',
         },
@@ -201,7 +201,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La demanda corresponde a la cantidad de productos o servicios solicitados por los consumidores en el mercado.',
+            'La demanda corresponde a la cantidad de productos o servicios solicitados por los consumidores en el mercado.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con los conceptos de oferta y demanda.',
         },
@@ -238,7 +238,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La integración de los eslabones permite coordinar las actividades de la cadena logística y mejorar su funcionamiento.',
+            'La integración de los eslabones permite coordinar las actividades de la cadena logística y mejorar su funcionamiento.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el concepto, tipos y aplicabilidad de los eslabones de la cadena logística.',
         },
@@ -273,7 +273,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! la gerencia basada en valor busca maximizar el valor económico mediante decisiones estratégicas y operativas.',
+            'la gerencia basada en valor busca maximizar el valor económico mediante decisiones estratégicas y operativas.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la gerencia basada en valor y su aplicabilidad.',
         },
@@ -306,7 +306,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El EVA es el indicador financiero utilizado para medir el valor económico generado por una organización.',
+            'El EVA es el indicador financiero utilizado para medir el valor económico generado por una organización.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el concepto y aplicabilidad del EVA.',
         },
@@ -341,7 +341,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El diseño y mejora de procesos permite optimizar recursos y fortalecer la eficiencia de las operaciones logísticas.',
+            'El diseño y mejora de procesos permite optimizar recursos y fortalecer la eficiencia de las operaciones logísticas.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la definición y análisis del diseño y mejora de procesos logísticos.',
         },
@@ -375,7 +375,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El WMS permite administrar inventarios y operaciones dentro de los centros de almacenamiento.',
+            'El WMS permite administrar inventarios y operaciones dentro de los centros de almacenamiento.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con las tecnologías de apoyo y la función del WMS.',
         },
@@ -407,7 +407,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El TMS es un sistema tecnológico utilizado para gestionar operaciones y rutas de transporte.',
+            'El TMS es un sistema tecnológico utilizado para gestionar operaciones y rutas de transporte.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con las tecnologías de apoyo y la función del TMS.',
         },
@@ -442,7 +442,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El cross docking permite recibir y enviar rápidamente los productos sin mantenerlos durante largos periodos en almacenamiento.',
+            'El cross docking permite recibir y enviar rápidamente los productos sin mantenerlos durante largos periodos en almacenamiento.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el concepto y aplicabilidad del cross docking.',
         },
@@ -479,7 +479,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El método basado en costos considera los costos operativos y el margen de ganancia para establecer el precio.',
+            'El método basado en costos considera los costos operativos y el margen de ganancia para establecer el precio.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con los métodos de fijación de precios.',
         },
@@ -514,7 +514,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las cláusulas contractuales permiten establecer condiciones relacionadas con pagos, entregas y responsabilidades.',
+            'Las cláusulas contractuales permiten establecer condiciones relacionadas con pagos, entregas y responsabilidades.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la fijación de precios y el establecimiento de cláusulas.',
         },
@@ -550,7 +550,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las técnicas de respuesta eficiente del consumidor buscan mejorar la respuesta de la cadena de abastecimiento frente a las necesidades del consumidor.',
+            'Las técnicas de respuesta eficiente del consumidor buscan mejorar la respuesta de la cadena de abastecimiento frente a las necesidades del consumidor.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el concepto y aplicabilidad de las técnicas de respuesta eficiente del consumidor.',
         },
@@ -584,7 +584,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis de procesos permite identificar fallas, retrasos y oportunidades de mejora operativa.',
+            'El análisis de procesos permite identificar fallas, retrasos y oportunidades de mejora operativa.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el análisis y mejora de los procesos logísticos.',
         },
@@ -618,7 +618,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis de la información de oferta, demanda y servicios facilita la toma de decisiones en los procesos logísticos.',
+            'El análisis de la información de oferta, demanda y servicios facilita la toma de decisiones en los procesos logísticos.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el análisis de información de oferta, demanda y servicios.',
         },
@@ -654,7 +654,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las tecnologías de apoyo permiten mejorar la eficiencia y facilitar el seguimiento de las operaciones de la cadena de abastecimiento.',
+            'Las tecnologías de apoyo permiten mejorar la eficiencia y facilitar el seguimiento de las operaciones de la cadena de abastecimiento.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con las tecnologías de apoyo, sus tipos y aplicabilidad.',
         },
@@ -667,7 +667,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Panel de control (Dashboard).',
+              texto: 'Panel de control (<em>Dashboard</em>).',
               esCorrecta: true,
             },
             {
@@ -687,7 +687,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los paneles de control permiten visualizar el comportamiento de los indicadores y facilitar el seguimiento de las operaciones logísticas.',
+            'Los paneles de control permiten visualizar el comportamiento de los indicadores y facilitar el seguimiento de las operaciones logísticas.',
           mensaje_incorrecto:
             'Revise nuevamente las herramientas utilizadas para el seguimiento y control de los procesos logísticos.',
         },
@@ -724,86 +724,15 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El establecimiento de niveles de servicio permite evaluar y fortalecer el cumplimiento de las necesidades y expectativas del cliente.',
+            'El establecimiento de niveles de servicio permite evaluar y fortalecer el cumplimiento de las necesidades y expectativas del cliente.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el establecimiento de niveles de servicio al cliente.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Felicitaciones! Ha aprobado satisfactoriamente la actividad de aprendizaje. Su resultado evidencia la apropiación de los conceptos relacionados con el componente formativo: Diagnóstico y documentación de procesos logísticos. Lo invitamos a continuar con el desarrollo de las siguientes actividades.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
-    },
-    parrafo: {
-      tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
-      titulo: 'Completar frases',
-      introduccion:
-        '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
-      instruccion:
-        'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
-      imagen: '@/assets/actividad/imagen1.png',
-      barajarPreguntas: true,
-      textos: [
-        {
-          id: 1,
-          texto:
-            'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
-          respuesta: 'presupuesto',
-        },
-        {
-          id: 2,
-          texto:
-            'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 3,
-          texto:
-            'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
-          respuesta: 'planifica',
-        },
-        {
-          id: 4,
-          texto:
-            'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
-          respuesta: 'discrecional',
-        },
-        {
-          id: 5,
-          texto:
-            'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
-          respuesta: 'recursos',
-        },
-        {
-          id: 6,
-          texto:
-            'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
-          respuesta: 'resultados',
-        },
-        {
-          id: 7,
-          texto:
-            'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
-          respuesta: 'utilidad',
-        },
-        {
-          id: 8,
-          texto:
-            'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
-          respuesta: 'estrés',
-        },
-        {
-          id: 9,
-          texto:
-            'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 10,
-          texto:
-            'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
-          respuesta: 'emergencia',
-        },
-      ],
+        'Aún puede fortalecer sus conocimientos. Le recomendamos revisar nuevamente los contenidos del componente formativo relacionados con diagnósticos, costos logísticos, oferta, demanda, cadena logística, valor económico, tecnologías, cross docking, precios y cláusulas. Posteriormente podrá presentar nuevamente la actividad para evidenciar el logro de los resultados de aprendizaje.',
     },
   }),
 }

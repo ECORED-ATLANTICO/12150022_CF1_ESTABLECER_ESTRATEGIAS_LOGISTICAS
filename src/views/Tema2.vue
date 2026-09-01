@@ -29,7 +29,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/3.png", alt="")
       .col-lg-11
-        .p-4.py-3.bg-primario-p10
+        .p-4.py-3.bg-primario-p10.rounded-3
           p.mb-0 #[strong Ejemplo]: Grupo Nutresa organiza sus operaciones mediante diferentes unidades estratégicas enfocadas en alimentos, cafés y chocolates, permitiendo gestionar de manera independiente cada línea de negocio según su mercado y objetivos comerciales.
 
     separador
