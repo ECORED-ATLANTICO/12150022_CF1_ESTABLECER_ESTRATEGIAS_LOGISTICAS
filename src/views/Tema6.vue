@@ -15,14 +15,14 @@
 
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 6.1 Concepto de gerencia basada en valor
+      h2 6.1 Concepto
 
     .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p La gerencia basada en valor, también conocida como GBV o Value Based Management, es un modelo de gestión enfocado en generar valor económico para la organización mediante la integración de estrategias, procesos y recursos orientados al cumplimiento de objetivos empresariales. Este enfoque permite evaluar el impacto de las decisiones relacionadas con costos, inversiones, productividad y servicio al cliente dentro de la cadena logística. Asimismo, facilita el análisis de indicadores financieros y operativos para mejorar la rentabilidad y sostenibilidad organizacional.
+        p La gerencia basada en valor, también conocida como GBV o <em>Value Based Management</em>, es un modelo de gestión enfocado en generar valor económico para la organización mediante la integración de estrategias, procesos y recursos orientados al cumplimiento de objetivos empresariales. Este enfoque permite evaluar el impacto de las decisiones relacionadas con costos, inversiones, productividad y servicio al cliente dentro de la cadena logística. Asimismo, facilita el análisis de indicadores financieros y operativos para mejorar la rentabilidad y sostenibilidad organizacional.
         .p-4.py-3.rounded-4.bg-primario-p10
           p.mb-0 Por ejemplo, Amazon implementa estrategias basadas en valor mediante inversiones tecnológicas y optimización logística para fortalecer la eficiencia operativa y mejorar la experiencia del cliente.
 
@@ -32,7 +32,7 @@
 
     p La gerencia basada en valor se aplica en organizaciones industriales, comerciales y de servicios para optimizar procesos, fortalecer la competitividad y mejorar la toma de decisiones estratégicas. Su implementación facilita el control de costos, la evaluación de inversiones y el mejoramiento continuo de la cadena logística.
 
-    p.mb-4 En logística, Los elementos de aplicación son los siguientes:
+    p.mb-4 En logística, los elementos de aplicación son los siguientes:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta color-acento-botones").mb-5
       .row.justify-content-center.align-items-center(titulo="Generación de valor")

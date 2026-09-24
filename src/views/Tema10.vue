@@ -21,7 +21,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema10/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las tecnologías de apoyo en la cadena de abastecimiento son el conjunto de herramientas, sistemas y recursos tecnológicos utilizados para gestionar y controlar las actividades logísticas de una organización. Estas tecnologías permiten mejorar el flujo de información, optimizar procesos operativos y fortalecer el seguimiento de productos dentro de la cadena logística. Asimismo, facilitan el control de inventarios, monitoreo de transporte, automatización de procesos y análisis de información logística para aumentar la productividad y reducir costos operativos
+        p.mb-0 Las tecnologías de apoyo en la cadena de abastecimiento son el conjunto de herramientas, sistemas y recursos tecnológicos utilizados para gestionar y controlar las actividades logísticas de una organización. Estas tecnologías permiten mejorar el flujo de información, optimizar procesos operativos y fortalecer el seguimiento de productos dentro de la cadena logística. Asimismo, facilitan el control de inventarios, monitoreo de transporte, automatización de procesos y análisis de información logística para aumentar la productividad y reducir costos operativos.
           
     .row.justify-content-center.align-items-center.z-2
       .col-2.col-lg-1.d-none.d-lg-block
@@ -47,7 +47,7 @@
           .crd_hover_txt--body.crd_hover_txt--body--custom.crd_hover_txt--body--custom-1
             h4.mb-0 Sistemas ERP.
             h5.mb-4 Planificación de recursos empresariales
-            p.mb-0 Integra información de compras, inventarios, ventas, costos y demás áreas para facilitar la coordinación de las operaciones
+            p.mb-0 Integra información de compras, inventarios, ventas, costos y demás áreas para facilitar la coordinación de las operaciones.
             p.mb-0 Función principal: consultar existencias antes de generar una orden de compra.
       .col-xl-3.col-lg-5.col-md-6.mb-4.mb-xl-0
         .crd_hover_txt
@@ -56,7 +56,7 @@
               img(src="@/assets/curso/tema10/5.png", alt="")
           .crd_hover_txt--body
             h4.mb-0 Sistemas WMS.
-            h5.mb-4 Gestión de Almacenes
+            h5.mb-4 Gestión de almacenes
             p.mb-0 Administra recepción, ubicación, almacenamiento, #[em picking], inventarios y despacho, mejorando el control de las operaciones de bodega.
             p.mb-0 Función principal: asignar automáticamente la ubicación de una mercancía recibida.
       .col-xl-3.col-lg-5.col-md-6.mb-4.mb-xl-0
@@ -80,13 +80,7 @@
             p.mb-0 Permite identificar y registrar productos mediante etiquetas electrónicas, incluso sin requerir lectura visual directa de cada elemento.
             p.mb-0 Función principal: controlar automáticamente el ingreso de mercancías etiquetadas a una zona del almacén.
 
-    .bg-secundario-s5.p-4.rounded-4
-      .row.justify-content-center.align-items-center
-        .col-sm-3.col-lg-2.col-xl-1.d-none.d-lg-block
-          figure
-            img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema10/8.png", alt="")
-        .col-lg-10.col-xl-11
-          p.mb-0 Ejemplo: imagen de la plataforma SAP ERP utilizada como referencia sobre sistemas de planificación de recursos empresariales (ERP), los cuales permiten integrar información estratégica de las diferentes áreas de la organización para optimizar procesos administrativos, operativos y logísticos dentro de la cadena de abastecimiento.
+    
 
     separador
     #t_10_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -96,7 +90,7 @@
     p.mb-4.mb-lg-5 En logística, estas tecnologías permiten: 
 
     .row.justify-content-center.align-items-center.z-2.mb-4
-      .col-xl-8.mb-4.mb-lg-0
+      .col-lg-12.col-xl-9.mb-4.mb-lg-0
         TabsA.color-acento-botones
           .tarjeta.p-4.bg-secundario-s5(titulo="Optimizar inventarios")
             p.mb-0 Facilita controlar existencias, niveles de rotación y necesidades de reposición, permitiendo mantener cantidades adecuadas de productos y reducir faltantes, excesos y costos asociados al almacenamiento. 
@@ -106,7 +100,7 @@
             p.mb-0 Contribuye a agilizar actividades mediante automatización, información disponible y mejor coordinación de los procesos, disminuyendo esperas, desplazamientos, reprocesos y tiempos innecesarios en la operación. 
           .tarjeta.p-4.bg-secundario-s5(titulo="Fortalecer el servicio al cliente")
             p.mb-0 Favorece entregas oportunas, pedidos exactos y disponibilidad de información, permitiendo responder con mayor eficiencia a los requerimientos y condiciones de servicio acordadas con el cliente. 
-      .col-sm-8.col-lg-4.d-none.d-xl-block
+      .col-sm-8.col-lg-2.col-xl-3.d-none.d-xl-block
         figure
           img(data-aos="fade-down", src="@/assets/curso/tema10/9.png", alt="")
 
@@ -146,9 +140,9 @@
               h5 ¿Sabías qué?
               p Lo invitamos al siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="“La idea de negocio como base del desarrollo empresarial”"
+                texto="<span style='font-style: normal !important;'>Tecnologías de apoyo en la cadena de abastecimiento: innovación y oportunidades para empresas y emprendedores."
                 tiempo
-                :audio="require_src('@/assets/actividad/audio/fail.mp3')"
+                :audio="require_src('@/assets/curso/podcast/podcast2.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
 </template>

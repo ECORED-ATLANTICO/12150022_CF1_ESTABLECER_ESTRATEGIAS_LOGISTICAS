@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 El componente formativo Diagnóstico y documentación de procesos logísticos aborda el procedimiento para el análisis de resultados sobre los diagnósticos y las unidades estratégicas de negocio; continúa con el estudio de los costos logísticos y el proceso de análisis de información de oferta, demanda y servicios; desarrolla los eslabones de cadena logística, la gerencia basada en valor (GBV o <em>Value Based Management</em>), las estrategias para crear valor económico agregado y el EVA como herramienta de evaluación financiera; profundiza en el diseño y mejora de procesos logísticos, las tecnologías de apoyo en la cadena de abastecimiento y el diseño de operaciones en cross docking; y finaliza con la fijación de precios y establecimiento de cláusulas.
+    p.mb-5 El componente formativo Diagnóstico y documentación de procesos logísticos aborda el procedimiento para el análisis de resultados sobre los diagnósticos y las unidades estratégicas de negocio; continúa con el estudio de los costos logísticos y el proceso de análisis de información de oferta, demanda y servicios; desarrolla los eslabones de cadena logística, la gerencia basada en valor (GBV o <em>Value Based Management</em>), las estrategias para crear valor económico agregado y el EVA como herramienta de evaluación financiera; profundiza en el diseño y mejora de procesos logísticos, las tecnologías de apoyo en la cadena de abastecimiento y el diseño de operaciones en <em>cross docking</em>; y finaliza con la fijación de precios y establecimiento de cláusulas.
     
 
     .row.justify-content-center

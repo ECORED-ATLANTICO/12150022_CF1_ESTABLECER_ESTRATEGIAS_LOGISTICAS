@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Proceso de análisis de información de oferta y demanda, servicios 
+      h1 Proceso de análisis de información de oferta, demanda y servicios 
     
     img(src="@/assets/curso/tema4/1.png", data-aos="fade-up", alt="")
     .row.justify-content-center.z-2
@@ -33,12 +33,14 @@
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.svg")
         h3.titulo-con-imagen__texto Relación con la logística
+    
+    p.mb-3 La oferta y la demanda deben analizarse conjuntamente, ya que sus variaciones pueden generar decisiones diferentes dentro de la cadena logística.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span Pasos para analizar los costos logísticos.
+          span Gráfico de oferta y demanda
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/5-mob.png", alt="La figura representa la relación entre oferta y demanda mediante su punto de equilibrio y muestra cómo sus variaciones pueden generar excedentes, faltantes y cambios en los precios. En logística, esta información permite anticipar necesidades de abastecimiento, inventario, almacenamiento y distribución. Los escenarios presentados integran el comportamiento del mercado con las decisiones operativas, facilitando la identificación de posibles efectos sobre la disponibilidad de productos y orientando la planificación de recursos para responder oportunamente a las necesidades de los clientes. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/5.png", alt="La figura representa la relación entre oferta y demanda mediante su punto de equilibrio y muestra cómo sus variaciones pueden generar excedentes, faltantes y cambios en los precios. En logística, esta información permite anticipar necesidades de abastecimiento, inventario, almacenamiento y distribución. Los escenarios presentados integran el comportamiento del mercado con las decisiones operativas, facilitando la identificación de posibles efectos sobre la disponibilidad de productos y orientando la planificación de recursos para responder oportunamente a las necesidades de los clientes. ")
         figcaption <strong>Fuente:</strong> SENA, 2026
@@ -54,9 +56,14 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Conceptos, oferta y demanda
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el análisis de información de oferta, demanda y servicios en los procesos logísticos:
-                .col-sm-auto.d-flex.gap-2.flex-column
-                  a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=j33Q8KiaWiw" target="_blank")
-                    span Ir al recurso
+               
+    .row.justify-content-center.align-items-center           
+      .col-lg-12
+        figure
+          .video.mb-2
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/j33Q8KiaWiw?si=WWSQe_FAgoSqInlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Conceptos, oferta y demanda
+
 
     separador
 

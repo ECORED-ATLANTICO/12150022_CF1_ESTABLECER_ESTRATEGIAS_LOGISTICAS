@@ -80,7 +80,6 @@
           span Pasos para analizar los costos logísticos.
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="La figura presenta de forma secuencial el proceso para analizar los costos logísticos dentro de una operación. El flujo organiza las actividades desde la revisión de la información disponible hasta la identificación de oportunidades y acciones orientadas a mejorar la eficiencia, optimizar el uso de los recursos y apoyar la toma de decisiones en la gestión logística. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="La figura presenta de forma secuencial el proceso para analizar los costos logísticos dentro de una operación. El flujo organiza las actividades desde la revisión de la información disponible hasta la identificación de oportunidades y acciones orientadas a mejorar la eficiencia, optimizar el uso de los recursos y apoyar la toma de decisiones en la gestión logística. ")
-        figcaption Nota. SENA, (2026).
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -110,31 +109,31 @@
             div
               h4.mb-4 Disponibilidad del producto
               p Capacidad de la organización para disponer de las referencias y cantidades requeridas por el cliente en el momento solicitado, evitando faltantes que puedan afectar la venta o el cumplimiento del pedido.
-              p.mb-0 #[strong Ejemplo]: Un supermercado solicita 100 cajas de bebidas y el proveedor dispone de las 100 unidades para atender el pedido sin entregas parciales.
+              p.mb-0 #[strong Ejemplo]: un supermercado solicita 100 cajas de bebidas y el proveedor dispone de las 100 unidades para atender el pedido sin entregas parciales.
             div
               h4.mb-4 Tiempo de respuesta
               p Tiempo transcurrido desde la recepción del requerimiento del cliente hasta su atención o entrega, considerando las actividades necesarias para procesar, preparar, despachar y transportar el pedido.
-              p.mb-0 #[strong Ejemplo]: Un cliente realiza un pedido a las 8:00 a. m. y la empresa establece entregarlo antes de las 4:00 p. m. del mismo día.
+              p.mb-0 #[strong Ejemplo]: un cliente realiza un pedido a las 8:00 a. m. y la empresa establece entregarlo antes de las 4:00 p. m. del mismo día.
             div
               h4.mb-4 Cumplimiento de entregas
               p Capacidad para realizar las entregas respetando las fechas, horarios, cantidades y demás condiciones previamente acordadas con el cliente, contribuyendo a la confiabilidad del servicio logístico.
-              p.mb-0 #[strong Ejemplo]: Una empresa acuerda entregar 50 pedidos el lunes; 48 llegan dentro del horario establecido y dos presentan retrasos.
+              p.mb-0 #[strong Ejemplo]: una empresa acuerda entregar 50 pedidos el lunes; 48 llegan dentro del horario establecido y dos presentan retrasos.
             div
               h4.mb-4 Exactitud del pedido
               p Nivel de correspondencia entre el pedido realizado y los productos efectivamente preparados y entregados, considerando referencias, cantidades, características y documentación asociada a la operación.
-              p.mb-0 #[strong Ejemplo]: Un cliente solicita 20 unidades de la referencia A y 15 de la B, y recibe exactamente esas cantidades y referencias.
+              p.mb-0 #[strong Ejemplo]: un cliente solicita 20 unidades de la referencia A y 15 de la B, y recibe exactamente esas cantidades y referencias.
             div
               h4.mb-4 Condiciones de entrega
               p Grado en que los productos llegan al cliente conservando las características de calidad, presentación e integridad requeridas, después de las actividades de almacenamiento, manipulación, preparación y transporte.
-              p.mb-0 #[strong Ejemplo]: Una empresa entrega productos refrigerados dentro de la temperatura requerida, con empaques íntegros y sin evidencias de deterioro.
+              p.mb-0 #[strong Ejemplo]: una empresa entrega productos refrigerados dentro de la temperatura requerida, con empaques íntegros y sin evidencias de deterioro.
             div
               h4.mb-4 Atención de novedades
               p Facultad de la organización para gestionar oportunamente situaciones que alteran el servicio, como faltantes, averías, retrasos, devoluciones o reclamaciones, procurando disminuir su impacto sobre el cliente.
-              p.mb-0 #[strong Ejemplo]: Durante una entrega se detectan cinco unidades averiadas; la empresa registra la novedad y programa su reposición para el día siguiente.
+              p.mb-0 #[strong Ejemplo]: durante una entrega se detectan cinco unidades averiadas; la empresa registra la novedad y programa su reposición para el día siguiente.
             div
               h4.mb-4 Información y trazabilidad
               p Disponibilidad de información actualizada para conocer y comunicar el recorrido, estado y novedades de los pedidos, facilitando su seguimiento desde la preparación hasta la entrega al cliente.
-              p.mb-0 #[strong Ejemplo]: Un cliente consulta su pedido y puede conocer si se encuentra en preparación, despachado, en ruta o entregado.
+              p.mb-0 #[strong Ejemplo]: un cliente consulta su pedido y puede conocer si se encuentra en preparación, despachado, en ruta o entregado.
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8

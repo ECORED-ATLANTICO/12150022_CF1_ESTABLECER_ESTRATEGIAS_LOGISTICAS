@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow
-          p.mb-0 El EVA (#[em Economic value added]) o valor económico agregado, es un indicador financiero utilizado por las organizaciones para medir la rentabilidad y determinar si las operaciones generan valor económico. Su aplicación facilita la evaluación del desempeño empresarial y el análisis de decisiones estratégicas relacionadas con costos, inversiones y productividad logística.
+          p.mb-0 EVA (#[em Economic Value Added]) o valor económico agregado, es un indicador financiero utilizado por las organizaciones para medir la rentabilidad y determinar si las operaciones generan valor económico. Su aplicación facilita la evaluación del desempeño empresarial y el análisis de decisiones estratégicas relacionadas con costos, inversiones y productividad logística.
 
     separador
 
@@ -24,7 +24,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema8/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es un es un indicador de medición financiera que permite determinar si las decisiones y operaciones de una organización generan valor económico después de considerar los costos y los recursos utilizados. En logística, facilita evaluar si las estrategias implementadas en procesos como abastecimiento, almacenamiento, transporte y distribución contribuyen a mejorar los resultados mediante un uso eficiente de los recursos, manteniendo condiciones adecuadas de operación y servicio al cliente. 
+        p.mb-0 Es un indicador de medición financiera que permite determinar si las decisiones y operaciones de una organización generan valor económico después de considerar los costos y los recursos utilizados. En logística, facilita evaluar si las estrategias implementadas en procesos como abastecimiento, almacenamiento, transporte y distribución contribuyen a mejorar los resultados mediante un uso eficiente de los recursos, manteniendo condiciones adecuadas de operación y servicio al cliente. 
 
     .row.justify-content-center.align-items-center.z-2.bg-secundario-s5.p-4.mb-4.mb-lg-5.rounded-3
       .col-3.col-sm-2.col-xl-1.d-none.d-lg-block
@@ -40,7 +40,6 @@
           span Formula del valor económico agregado (EVA)
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema8/4-mob.png", alt="La figura representa el cálculo del valor económico agregado (EVA), relacionando la utilidad operativa obtenida después de impuestos con el capital comprometido y su costo financiero. La fórmula permite determinar si los resultados generados por una operación superan el rendimiento mínimo esperado sobre los recursos utilizados. En el ámbito logístico, facilita evaluar si las decisiones sobre infraestructura, inventarios, tecnología, equipos y demás recursos contribuyen a crear valor económico para la organización. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema8/4.png", alt="La figura representa el cálculo del valor económico agregado (EVA), relacionando la utilidad operativa obtenida después de impuestos con el capital comprometido y su costo financiero. La fórmula permite determinar si los resultados generados por una operación superan el rendimiento mínimo esperado sobre los recursos utilizados. En el ámbito logístico, facilita evaluar si las decisiones sobre infraestructura, inventarios, tecnología, equipos y demás recursos contribuyen a crear valor económico para la organización. ")
-        figcaption Nota. SENA, (2026).
 
     separador
     #t_8_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

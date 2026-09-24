@@ -46,7 +46,6 @@
           span Pasos para el análisis de procesos logísticos
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema9/3-mob.png", alt="La figura muestra de manera cíclica el análisis y mejoramiento continuo de los procesos logísticos. La secuencia integra la identificación de las operaciones, recopilación y análisis de información, evaluación del desempeño, detección de oportunidades, medición de resultados y formulación de acciones de mejora. Su estructura evidencia que el proceso requiere seguimiento permanente y retroalimentación, permitiendo ajustar las operaciones, optimizar los recursos y fortalecer progresivamente la productividad, eficiencia y calidad del servicio logístico.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema9/3.png", alt="La figura muestra de manera cíclica el análisis y mejoramiento continuo de los procesos logísticos. La secuencia integra la identificación de las operaciones, recopilación y análisis de información, evaluación del desempeño, detección de oportunidades, medición de resultados y formulación de acciones de mejora. Su estructura evidencia que el proceso requiere seguimiento permanente y retroalimentación, permitiendo ajustar las operaciones, optimizar los recursos y fortalecer progresivamente la productividad, eficiencia y calidad del servicio logístico.")
-        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8

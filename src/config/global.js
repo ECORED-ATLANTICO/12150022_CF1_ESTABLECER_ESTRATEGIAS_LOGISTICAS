@@ -99,7 +99,8 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Concepto de oferta y demanda',
+        titulo:
+          'Proceso de análisis de información de oferta, demanda y servicios',
         desarrolloContenidos: true,
         subMenu: [
           {

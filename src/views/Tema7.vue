@@ -22,7 +22,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema7/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El análisis de información de oferta y demanda permite a las organizaciones identificar las necesidades del mercado, el comportamiento de los consumidores y la capacidad de respuesta de las empresas frente a los productos y servicios ofrecidos. Este proceso facilita la toma de decisiones relacionadas con abastecimiento, inventarios, distribución y nivel de servicio al cliente.
+        p.mb-3 Las estrategias para crear valor económico agregado corresponden a acciones orientadas a aumentar la rentabilidad de la organización mediante el mejoramiento de procesos, reducción de costos y optimización de recursos. Estas estrategias permiten generar beneficios económicos superiores a los costos operativos y financieros de la empresa.
 
     .row.justify-content-center.align-items-center.z-2
       .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -44,7 +44,6 @@
       span Tipos de estrategias para crear valor económico agregado 
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2016). 
         thead
           tr(style="background-color: #ECF8FF")
             th Tipo de estrategia 
@@ -60,10 +59,6 @@
             td Innovación tecnológica 
             td(colspan="2") Incorpora tecnologías para automatizar actividades y mejorar el control, la productividad, la información y la trazabilidad logística. 
             td(colspan="2") Un centro de distribución implementa un WMS y códigos de barras para controlar inventarios y reducir errores.  
-          tr
-            td Mejora del servicio al cliente 
-            td(colspan="2") Aumenta la disponibilidad, oportunidad, exactitud, calidad y costos asociados con la atención a los requerimientos del cliente. 
-            td(colspan="2") Un operador logístico ofrece entregas en 24 horas para productos de alta rotación y establece tiempos diferentes para referencias especiales, evitando asumir costos innecesarios en toda su operación. 
           tr(style="background-color: #F6F6F6")
             td Mejoramiento del servicio 
             td(colspan="2") Fortalece la respuesta al cliente mediante mejoras en disponibilidad, oportunidad, exactitud, información y condiciones de entrega. 

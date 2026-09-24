@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 <em>Marketing</em> tradicional
+      h1 Procedimiento para el análisis de resultados sobre los diagnósticos
     
     img(src="@/assets/curso/tema1/1.png", data-aos="fade-up", alt="")
     .row.justify-content-center.z-2
@@ -32,7 +32,7 @@
 
     p Los tipos de análisis permiten evaluar diferentes aspectos de los procesos logísticos para facilitar la toma de decisiones dentro de las organizaciones. Su aplicación contribuye a mejorar la eficiencia operativa, optimizar recursos y fortalecer el desempeño de la cadena de abastecimiento.
     .p-4.py-3.bg-secundario-s5.mb-4.rounded-3
-      p.mb-0.text-center A continuación, se presentan los principales tipos de análisis utilizados en los diagnósticos logísticos para evaluar el desempeño de los procesos y apoyar la toma de decisiones organizacionales
+      p.mb-0.text-center A continuación, se presentan los principales tipos de análisis utilizados en los diagnósticos logísticos para evaluar el desempeño de los procesos y apoyar la toma de decisiones organizacionales:
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4

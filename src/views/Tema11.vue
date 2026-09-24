@@ -34,14 +34,14 @@
               figure
                 img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema11/3.png", alt="")
             .col-lg-10
-              p.mb-0 Por ejemplo, Walmart implementa operaciones de cross docking para agilizar el abastecimiento de productos hacia sus puntos de venta y reducir costos de almacenamiento.
+              p.mb-0 Por ejemplo, Walmart implementa operaciones de <em>cross docking</em> para agilizar el abastecimiento de productos hacia sus puntos de venta y reducir costos de almacenamiento.
 
     separador
 
     #t_11_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 11.2 Aplicabilidad
 
-    p El cross docking se aplica en organizaciones comerciales, industriales y de servicios que requieren rapidez en la distribución de mercancías y optimización de recursos logísticos. Su implementación facilita el control del flujo de productos, disminuye tiempos operativos y mejora el nivel de servicio al cliente.  
+    p El <em>cross docking</em> se aplica en organizaciones comerciales, industriales y de servicios que requieren rapidez en la distribución de mercancías y optimización de recursos logísticos. Su implementación facilita el control del flujo de productos, disminuye tiempos operativos y mejora el nivel de servicio al cliente.  
     p.mb-4.mb-lg-5 Asimismo, este modelo es utilizado en procesos relacionados con: 
       
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
@@ -76,7 +76,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Diseño de una red logística
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el diseño de operaciones en cross docking y su aplicación en los procesos de distribución y optimización logística:
+                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el diseño de operaciones en <em>cross docking</em> y su aplicación en los procesos de distribución y optimización logística:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=OPSNmuNgQaE" target="_blank")
                     span Ir al recurso

@@ -42,7 +42,7 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 2.
-      span Tipos de información analizados en los procesos de oferta, demanda y servicios
+      span Tipos de eslabones de cadena logística
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
         caption Nota. Adaptada de Ballou, (2004); Mora García, (2016); Anaya Tejero, (2011).
@@ -118,9 +118,9 @@
               h5 ¿Sabías qué?
               p Lo invitamos al siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="“La idea de negocio como base del desarrollo empresarial”"
+                texto="<span style='font-style: normal !important;'>Eslabones de cadena logística: conexión estratégica para empresas y emprendedores."
                 tiempo
-                :audio="require_src('@/assets/actividad/audio/fail.mp3')"
+                :audio="require_src('@//assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
 
 </template>

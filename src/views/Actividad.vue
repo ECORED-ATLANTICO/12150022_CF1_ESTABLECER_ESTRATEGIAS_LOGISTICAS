@@ -413,7 +413,7 @@ export default {
         },
         {
           id: 12,
-          texto: '¿Cuál es una característica del cross docking?',
+          texto: '¿Cuál es una característica del <em>cross docking</em>?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
@@ -442,9 +442,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'El cross docking permite recibir y enviar rápidamente los productos sin mantenerlos durante largos periodos en almacenamiento.',
+            'El <em>cross docking</em> permite recibir y enviar rápidamente los productos sin mantenerlos durante largos periodos en almacenamiento.',
           mensaje_incorrecto:
-            'Revise nuevamente los contenidos relacionados con el concepto y aplicabilidad del cross docking.',
+            'Revise nuevamente los contenidos relacionados con el concepto y aplicabilidad del <em>cross docking</em>.',
         },
         {
           id: 13,
@@ -732,7 +732,7 @@ export default {
       mensaje_final_aprobado:
         '¡Felicitaciones! Ha aprobado satisfactoriamente la actividad de aprendizaje. Su resultado evidencia la apropiación de los conceptos relacionados con el componente formativo: Diagnóstico y documentación de procesos logísticos. Lo invitamos a continuar con el desarrollo de las siguientes actividades.',
       mensaje_final_reprobado:
-        'Aún puede fortalecer sus conocimientos. Le recomendamos revisar nuevamente los contenidos del componente formativo relacionados con diagnósticos, costos logísticos, oferta, demanda, cadena logística, valor económico, tecnologías, cross docking, precios y cláusulas. Posteriormente podrá presentar nuevamente la actividad para evidenciar el logro de los resultados de aprendizaje.',
+        'Aún puede fortalecer sus conocimientos. Le recomendamos revisar nuevamente los contenidos del componente formativo relacionados con diagnósticos, costos logísticos, oferta, demanda, cadena logística, valor económico, tecnologías, <em>cross docking</em>, precios y cláusulas. Posteriormente podrá presentar nuevamente la actividad para evidenciar el logro de los resultados de aprendizaje.',
     },
   }),
 }

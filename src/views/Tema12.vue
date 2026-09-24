@@ -41,7 +41,7 @@
     #t_12_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 12.2 Métodos
 
-    p Las organizaciones utilizan diferentes métodos para establecer precios y condiciones comerciales de acuerdo con las necesidades del mercado y los objetivos empresariales. Los métodos mas usados en logística son los siguientes
+    p Las organizaciones utilizan diferentes métodos para establecer precios y condiciones comerciales de acuerdo con las necesidades del mercado y los objetivos empresariales. Los métodos mas usados en logística son los siguientes:
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 4. 
@@ -97,9 +97,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Pasos para la aplicación de fijación de precios
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema12/4-mob.png", alt="Identificar los costos relacionados con transporte, almacenamiento y distribución. Analizar la oferta, demanda y condiciones del mercado. Definir precios de productos o servicios según objetivos organizacionales. Establecer cláusulas relacionadas con pagos, tiempo de entrega y responsabilidades. Evaluar las condiciones comerciales y logísticas acordadas entre las partes. Verificar el cumplimiento de las cláusulas establecidas dentro de la operación logística. Realizar ajustes de precios y condiciones de acuerdo con cambios del mercado y necesidades de la organización.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema12/4.png", alt="Identificar los costos relacionados con transporte, almacenamiento y distribución. Analizar la oferta, demanda y condiciones del mercado. Definir precios de productos o servicios según objetivos organizacionales. Establecer cláusulas relacionadas con pagos, tiempo de entrega y responsabilidades. Evaluar las condiciones comerciales y logísticas acordadas entre las partes. Verificar el cumplimiento de las cláusulas establecidas dentro de la operación logística. Realizar ajustes de precios y condiciones de acuerdo con cambios del mercado y necesidades de la organización.")
-        figcaption Nota. SENA, (2026).
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema12/4-mob.png", alt="La figura presenta de manera secuencial el proceso para fijar precios y establecer cláusulas dentro de una operación logística. Integra el análisis de costos y condiciones del mercado con la definición de precios, acuerdos comerciales, responsabilidades y verificación de cumplimiento. La secuencia evidencia que estas decisiones deben revisarse de manera periódica para ajustarse a cambios del entorno, necesidades organizacionales y condiciones operativas, contribuyendo a una gestión comercial y logística más coherente, controlada y sostenible. ")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema12/4.png", alt="La figura presenta de manera secuencial el proceso para fijar precios y establecer cláusulas dentro de una operación logística. Integra el análisis de costos y condiciones del mercado con la definición de precios, acuerdos comerciales, responsabilidades y verificación de cumplimiento. La secuencia evidencia que estas decisiones deben revisarse de manera periódica para ajustarse a cambios del entorno, necesidades organizacionales y condiciones operativas, contribuyendo a una gestión comercial y logística más coherente, controlada y sostenible. ")
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-10.col-lg-5
@@ -125,7 +124,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 #[em Efficient consumer response] (ECR)
+                  h4.mb-1 #[em Efficient Consumer Response] (ECR)
                   p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con las técnicas de respuesta eficiente del consumidor y su aplicación en los procesos de abastecimiento, distribución y servicio al cliente: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Kl2Siw81MH0" target="_blank")
