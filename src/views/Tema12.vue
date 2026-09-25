@@ -82,7 +82,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Métodos de fijación de precios
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con los métodos de fijación de precios y su aplicación en los procesos comerciales y logísticos de las organizaciones: 
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con los métodos de fijación de precios y su aplicación en los procesos comerciales y logísticos de las organizaciones: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=LdRdiKrwI38" target="_blank")
                     span Ir al recurso
@@ -125,7 +125,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 #[em Efficient Consumer Response] (ECR)
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con las técnicas de respuesta eficiente del consumidor y su aplicación en los procesos de abastecimiento, distribución y servicio al cliente: 
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con las técnicas de respuesta eficiente del consumidor y su aplicación en los procesos de abastecimiento, distribución y servicio al cliente: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Kl2Siw81MH0" target="_blank")
                     span Ir al recurso

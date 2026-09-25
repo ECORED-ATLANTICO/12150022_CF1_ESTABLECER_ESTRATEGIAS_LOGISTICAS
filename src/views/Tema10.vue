@@ -127,7 +127,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Herramientas y métricas de medición logística
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con las tecnologías de apoyo aplicadas en la cadena de abastecimiento y su uso en los procesos logísticos empresariales:
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con las tecnologías de apoyo aplicadas en la cadena de abastecimiento y su uso en los procesos logísticos empresariales:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=_2FL76RGoOE" target="_blank")
                     span Ir al recurso

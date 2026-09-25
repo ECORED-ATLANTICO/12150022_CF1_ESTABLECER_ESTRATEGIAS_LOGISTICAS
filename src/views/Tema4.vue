@@ -43,7 +43,6 @@
           span Gráfico de oferta y demanda
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/5-mob.png", alt="La figura representa la relación entre oferta y demanda mediante su punto de equilibrio y muestra cómo sus variaciones pueden generar excedentes, faltantes y cambios en los precios. En logística, esta información permite anticipar necesidades de abastecimiento, inventario, almacenamiento y distribución. Los escenarios presentados integran el comportamiento del mercado con las decisiones operativas, facilitando la identificación de posibles efectos sobre la disponibilidad de productos y orientando la planificación de recursos para responder oportunamente a las necesidades de los clientes. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/5.png", alt="La figura representa la relación entre oferta y demanda mediante su punto de equilibrio y muestra cómo sus variaciones pueden generar excedentes, faltantes y cambios en los precios. En logística, esta información permite anticipar necesidades de abastecimiento, inventario, almacenamiento y distribución. Los escenarios presentados integran el comportamiento del mercado con las decisiones operativas, facilitando la identificación de posibles efectos sobre la disponibilidad de productos y orientando la planificación de recursos para responder oportunamente a las necesidades de los clientes. ")
-        figcaption <strong>Fuente:</strong> SENA, 2026
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-xl-8
@@ -55,7 +54,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Conceptos, oferta y demanda
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el análisis de información de oferta, demanda y servicios en los procesos logísticos:
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con el análisis de información de oferta, demanda y servicios en los procesos logísticos:
                
     .row.justify-content-center.align-items-center           
       .col-lg-12

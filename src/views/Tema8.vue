@@ -98,7 +98,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 EVA valor económico agregado
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con el EVA (Valor Económico Agregado) y su aplicación en la evaluación financiera y estratégica de las organizaciones: 
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con el EVA (Valor Económico Agregado) y su aplicación en la evaluación financiera y estratégica de las organizaciones: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=ug33PRS7ODk" target="_blank")
                     span Ir al recurso

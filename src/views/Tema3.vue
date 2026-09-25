@@ -77,7 +77,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span Pasos para analizar los costos logísticos.
+          span Pasos para analizar los costos logísticos
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/5-mob.png", alt="La figura presenta de forma secuencial el proceso para analizar los costos logísticos dentro de una operación. El flujo organiza las actividades desde la revisión de la información disponible hasta la identificación de oportunidades y acciones orientadas a mejorar la eficiencia, optimizar el uso de los recursos y apoyar la toma de decisiones en la gestión logística. ")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/5.png", alt="La figura presenta de forma secuencial el proceso para analizar los costos logísticos dentro de una operación. El flujo organiza las actividades desde la revisión de la información disponible hasta la identificación de oportunidades y acciones orientadas a mejorar la eficiencia, optimizar el uso de los recursos y apoyar la toma de decisiones en la gestión logística. ")
 
