@@ -110,7 +110,7 @@
           .row.justify-content-center.align-items-center
             .col-sm-3.col-lg-2.d-none.d-lg-block
               figure
-                img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema10/10.png", alt="")
+                img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema10/10.svg", alt="")
             .col-lg-10
               p.mb-0 Por ejemplo, FedEx utiliza sistemas de rastreo y monitoreo en tiempo real para controlar operaciones de transporte y garantizar el cumplimiento de entregas.
 

@@ -38,42 +38,42 @@
       .row.justify-content-center.align-items-center(titulo="Generación de valor")
         .col-lg-7.col-xl-6
           p.mb-1 Comprende la contribución que realizan las actividades logísticas al cumplimiento de los objetivos empresariales, mediante mejoras en productividad, oportunidad, calidad, rentabilidad y satisfacción de las necesidades del cliente.
-          p.mb-4.mb-lg-0 Ejemplo aplicado: una distribuidora reorganiza sus rutas y logra realizar más entregas por vehículo, disminuyendo recorridos innecesarios y manteniendo los horarios acordados con sus clientes.
+          p.mb-4.mb-lg-0 <strong><strong>Ejemplo aplicado</strong></strong>: una distribuidora reorganiza sus rutas y logra realizar más entregas por vehículo, disminuyendo recorridos innecesarios y manteniendo los horarios acordados con sus clientes.
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/3.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Uso eficiente de recursos")
         .col-lg-7.col-xl-6
           p.mb-1 Se relaciona con el aprovechamiento adecuado de infraestructura, equipos, vehículos, inventarios, tecnología y talento humano, procurando disminuir tiempos improductivos, desperdicios y recursos utilizados sin generar resultados relevantes.
-          p.mb-4.mb-lg-0 Ejemplo aplicado: un centro de distribución reubica los productos de mayor rotación cerca del área de despacho, reduciendo recorridos de los operarios y tiempos de preparación de pedidos.
+          p.mb-4.mb-lg-0 <strong>Ejemplo aplicado</strong>: un centro de distribución reubica los productos de mayor rotación cerca del área de despacho, reduciendo recorridos de los operarios y tiempos de preparación de pedidos.
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/4.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Análisis de costos y beneficios")
         .col-lg-7.col-xl-6
           p.mb-1 Permite establecer la conveniencia de una alternativa comparando los recursos económicos requeridos con los ahorros, mejoras operativas o beneficios que podrían obtenerse durante su implementación y funcionamiento. 
-          p.mb-4.mb-lg-0 Ejemplo aplicado: una empresa compara el costo de adquirir lectores de código de barras con la reducción esperada de errores, reprocesos y diferencias de inventario antes de realizar la inversión. 
+          p.mb-4.mb-lg-0 <strong>Ejemplo aplicado</strong>: una empresa compara el costo de adquirir lectores de código de barras con la reducción esperada de errores, reprocesos y diferencias de inventario antes de realizar la inversión. 
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/5.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Nivel de servicio")
         .col-lg-7.col-xl-6
           p.mb-1 Representa las condiciones de atención que la organización establece para responder a los requerimientos del cliente, procurando un equilibrio entre disponibilidad, oportunidad, exactitud, calidad y costos asociados con su cumplimiento. 
-          p.mb-4.mb-lg-0 Ejemplo aplicado: una comercializadora ofrece entregas en 24 horas para productos de alta rotación y establece tiempos diferentes para referencias especiales, evitando asumir costos innecesarios en toda su operación. 
+          p.mb-4.mb-lg-0 <strong>Ejemplo aplicado</strong>: una comercializadora ofrece entregas en 24 horas para productos de alta rotación y establece tiempos diferentes para referencias especiales, evitando asumir costos innecesarios en toda su operación. 
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/6.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Medición del desempeño")
         .col-lg-7.col-xl-6
           p.mb-1 Proporciona información cuantitativa y cualitativa sobre los resultados de la operación, facilitando reconocer desviaciones, tendencias y oportunidades mediante indicadores relacionados con costos, tiempos, productividad, inventarios y cumplimiento. 
-          p.mb-4.mb-lg-0 Ejemplo aplicado: un operador logístico controla mensualmente entregas a tiempo, ocupación de vehículos y costo por entrega para detectar rutas con bajo desempeño y establecer mejoras. 
+          p.mb-4.mb-lg-0 <strong>Ejemplo aplicado</strong>: un operador logístico controla mensualmente entregas a tiempo, ocupación de vehículos y costo por entrega para detectar rutas con bajo desempeño y establecer mejoras. 
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/7.png", alt="")
       .row.justify-content-center.align-items-center(titulo="Toma de decisiones")
         .col-lg-7.col-xl-6
           p.mb-1 Integra información operativa, económica y de servicio para comparar alternativas y seleccionar aquella que contribuya favorablemente a los resultados presentes y futuros de la organización.
-          p.mb-4.mb-lg-0 Ejemplo aplicado: una empresa decide contratar transporte tercerizado para zonas de baja demanda después de comprobar que mantener vehículos propios en esas rutas genera baja utilización y mayores costos.
+          p.mb-4.mb-lg-0 <strong>Ejemplo aplicado</strong>: una empresa decide contratar transporte tercerizado para zonas de baja demanda después de comprobar que mantener vehículos propios en esas rutas genera baja utilización y mayores costos.
         .col-sm-8.col-lg-5
           figure
             img.mb-4.mb-lg-0(src="@/assets/curso/tema6/8.png", alt="")
@@ -95,7 +95,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Gerencia basada en valor (GBV) 
+                  h4.mb-1 Gerencia Basada en Valor (GBV) 
                   p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con la gerencia basada en valor (GBV) y su aplicación en la toma de decisiones organizacionales y logísticas:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=LLXRHBMkFng" target="_blank")

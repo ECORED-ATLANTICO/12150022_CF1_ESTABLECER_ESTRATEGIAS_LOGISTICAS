@@ -20,7 +20,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p Las unidades estratégicas de negocio (UEN) son áreas, líneas o segmentos de una organización que agrupan productos, servicios o mercados con características similares y que pueden gestionarse mediante objetivos y estrategias particulares, manteniendo su articulación con la estrategia general de la empresa. 
+        p Las Unidades Estratégicas de Negocio (UEN) son áreas, líneas o segmentos de una organización que agrupan productos, servicios o mercados con características similares y que pueden gestionarse mediante objetivos y estrategias particulares, manteniendo su articulación con la estrategia general de la empresa. 
         .p-4.py-3.bg-contenido-a5.rounded-4 
           p.mb-0 Estas unidades facilitan la administración de procesos relacionados con abastecimiento, almacenamiento, transporte, distribución y servicio al cliente, permitiendo evaluar el desempeño de cada área de manera individual. Asimismo, contribuyen a mejorar la planeación estratégica y la asignación eficiente de recursos dentro de la empresa.
 

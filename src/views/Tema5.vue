@@ -27,7 +27,7 @@
         .row.justify-content-center.align-items-center.z-2
           .col-3.col-sm-2.d-none.d-lg-block
             figure
-              img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/3.png", alt="")
+              img.mb-4.mb-lg-0.imgw-84(data-aos="fade-down", src="@/assets/curso/tema5/3.svg", alt="")
           .col-lg-10
             .p-4.py-3.bg-secundario-s5.rounded-3
               p.mb-0 Por ejemplo, Amazon integra proveedores, centros de distribución, transporte y plataformas tecnológicas para garantizar entregas rápidas y eficientes.

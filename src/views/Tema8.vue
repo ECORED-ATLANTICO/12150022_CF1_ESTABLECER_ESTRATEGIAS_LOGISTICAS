@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1 EVA
+      h1 EVA (<em>Economic Value Added</em>)
 
     img(data-aos="fade-up")(src="@/assets/curso/tema8/1.png", alt="")
     

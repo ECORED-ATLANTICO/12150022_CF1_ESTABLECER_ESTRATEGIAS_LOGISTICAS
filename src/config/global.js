@@ -188,7 +188,7 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: 'EVA',
+        titulo: 'EVA (<em>Economic Value Added</em>) ',
         desarrolloContenidos: true,
         subMenu: [
           {

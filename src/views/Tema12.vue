@@ -110,7 +110,7 @@
           li.d-flex.align-items-center.gap-1.mb-0
             i.lista-ul__dot
             | Evaluar el nivel de servicio y satisfacción del cliente. 
-          li 
+          li.d-flex.align-items-center.gap-1.mb-0
             i.lista-ul__dot
             | Establecer acciones de mejora para fortalecer la eficiencia de la cadena logística. 
     
